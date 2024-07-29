@@ -1,0 +1,5 @@
+*.ini
+*.csv
+/.idea
+/Dockerfile
+/.dockerignore
